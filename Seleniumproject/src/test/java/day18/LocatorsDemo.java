@@ -39,6 +39,9 @@ public class LocatorsDemo
       List<WebElement> images = driver.findElements(By.tagName("img"));
       System.out.println("total no. of images:"+images.size());
 
+      
+      System.out.println("rajat");
+      
 	}
 
 }
